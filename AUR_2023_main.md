@@ -13,7 +13,7 @@ length: 2 days
 
 # Welcome <a id="welcome"></a>
 
-The course **schedule** can be found [here](https://bioinformaticsdotca.github.io/AUR_2021_schedule). 
+The course **schedule** can be found [here](https://bioinformaticsdotca.github.io/AUR_2023_schedule). 
 
 Meet your faculty [here](https://drive.google.com/file/d/1vpWqrjALkrkQyKJm9Kvmpo8qcFNIIygY/view?usp=sharing) 
 
