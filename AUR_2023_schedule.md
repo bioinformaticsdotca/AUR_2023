@@ -8,9 +8,9 @@ image: /site_images/CBW_R_icon.jpg
 home: https://bioinformaticsdotca.github.io/AUR_2023
 ---
 
-| | **Day 1** || **Day 2** |  
+| | Wednesday, June 28 || Thursday, June 29 |
 | :---:| :---: | :---: | :---: |   
-| | **Wednesday, June 28** || **Thursday, June 29** |
+| Time (Eastern) | Module | Time (Eastern) | Module |
 |	8:30	|	<font color="green">Arrivals and Check-in</font>|	8:30	|	<font color="purple">Arrivals</font>| 
 |	9:00	|	<font color="purple">Welcome (Michelle Brazas)</font> |	9:00	|	<font color="purple">Day 1 Review: Linear mixed models and evaluation (Shraddha Pai)</font> |	
 |	9:30	|	<font color="purple">Getting started and introducing clustering (Shraddha Pai)</font> |	10:00	|	<font color="green">Break (30min)</font>|	
