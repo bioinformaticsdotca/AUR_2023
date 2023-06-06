@@ -5,9 +5,6 @@ title: AUR 2023
 header1: Workshop Pages for Students
 header2: Analysis using R 2023
 image: /site_images/CBW_R_icon.jpg
-keywords: R and its analysis tools, plot and visualize data, use R and its analysis tools
-description: Course covered for this workshop are broadly relevant for many areas of modern, quantitative biology such as flow cytometry, expression profile analysis, function prediction and more. 
-instructors: Lauren Erdman
 length: 2 days
 ---
 
@@ -21,7 +18,7 @@ Meet your **faculty** [here]()
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-**Pre-work** including programs to install and practice exercises can be found [here](). 
+**Pre-work** including programs to install and practice exercises can be found [here](https://forms.gle/6Kq7bfMisjoJmjtN7). 
 
 ***
 
