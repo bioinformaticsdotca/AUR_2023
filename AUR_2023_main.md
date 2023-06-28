@@ -12,7 +12,7 @@ length: 2 days
 
 The course **schedule** can be found [here](https://bioinformaticsdotca.github.io/AUR_2023_schedule)  
 
-Meet your **faculty** [here](https://drive.google.com/file/d/1KduUkrCJJ0OyfSDbu9fZpt4BQsOeqh6E/view?usp=sharing)  
+Meet your **faculty** [here](https://drive.google.com/file/d/1KduUkrCJJ0OyfSDbu9fZpt4BQsOeqh6E/view?usp=drive_link)  
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
