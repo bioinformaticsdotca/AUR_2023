@@ -45,7 +45,7 @@ Meet your **faculty** [here](https://drive.google.com/file/d/1KduUkrCJJ0OyfSDbu9
 *<font color="#827e9c">Delaram Pouyabahar, material by Chaitra Sarathy</font>*  
 
 <!-- [Module 2 Lecture Recording]()   -->
-[Module 2 Lecture Slides](https://drive.google.com/file/d/17I-cVdAmF-N3evkShdtwdBn3Tq-uMada/view?usp=drive_link)  
+[Module 2 Lecture Slides](https://drive.google.com/file/d/17yWQ3rSQTz4wK0cOD31h3c4prz7kEf9-/view?usp=sharing)  
 [Module 2 Lab](http://pailab.oicr.on.ca/CBW_AUR2023/module-2-dimensionality-reduction.html)  
 
 # Day 2 <a id="day2"></a>
